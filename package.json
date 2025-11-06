@@ -26,6 +26,7 @@
     "body-parser": "^1.17.2",
     "dotenv": "^17.2.3",
     "express": "^4.15.3",
+    "mongodb": "^6.20.0",
     "mongoose": "^5.4.18",
     "nodemon": "^1.11.0"
   }
